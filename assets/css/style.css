@@ -1,0 +1,20 @@
+.searchColumn {
+    background-color: aqua;
+}
+
+h2, h3 {
+    padding-top: 10px;
+    font-weight: 400;
+}
+
+h4 {
+    font-weight: 400;
+}
+
+.container {
+    max-width: 1200px;
+}
+
+.bg-primary, .input-group {
+    margin-botton: 10px;
+}
